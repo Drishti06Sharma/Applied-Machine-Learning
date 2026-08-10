@@ -29,7 +29,10 @@ This repository contains my laboratory work, Jupyter notebooks, assignments, and
 The purpose of this repository is to document my learning journey in Applied Machine Learning through practical implementations, experiments, and course assignments.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c47ce0f1867feb941f5a1e6192429cc7161bf65
 ## Author
 
 **Drishti Sharma**  
@@ -37,4 +40,8 @@ B.Tech CSE (AI & ML)
 UPES, Dehradun
 
 ---
+<<<<<<< HEAD
 ⭐ Thank you for visiting this repository!
+=======
+⭐ Thank you for visiting this repository!
+>>>>>>> 5c47ce0f1867feb941f5a1e6192429cc7161bf65
