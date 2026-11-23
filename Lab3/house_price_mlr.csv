@@ -1,4 +1,4 @@
-House_ID,Area_sqft,Bedrooms,Bathrooms,Age_years,Distance_km,Parking,Locality_Rating,Price_Lakh
+wHouse_ID,Area_sqft,Bedrooms,Bathrooms,Age_years,Distance_km,Parking,Locality_Rating,Price_Lakh
 1,850,2,1,18,12.5,1,5,42
 2,900,2,2,15,11.8,1,6,47
 3,950,2,2,12,10.5,1,6,51
